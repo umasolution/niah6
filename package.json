@@ -24,7 +24,7 @@
     "@bomgar/typescript-utils": "git+ssh://git@git.bt3ng.com:7999/try/typescript-utils.git#d9eaf3b8619ed483305dd5e8bc9a3821c9dd4374",
     "@bomgar/user-agent-detector": "git+ssh://git.bt3ng.com:7999/try/user-agent-detector.git#cb6b64cf9a31db750cde7ded3590039274684aa3",
     "esbuild": "~0.14.34",
-    "tslib": "~2.2.0"
+    "tslib": "~2.6.2"
   },
   "devDependencies": {
     "@bomgar/bg-web-sync": "git+ssh://git@git.bt3ng.com:7999/~bsimpson/web-watch-sync.git#480b550f03a429c0927dd592c3fc9488c2a2e87b",
